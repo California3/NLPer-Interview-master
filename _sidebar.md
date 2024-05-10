@@ -304,7 +304,10 @@ transformers
 * [speechT5](26-语音篇/speechT5.md)
 * [voices](26-语音篇/voices.md)
 
-第33大章 Transformers
+第33大章 LangChain for LLM 
+* [Langchain入门](27-LangChain%20for%20LLM%20/Langchain入门.md)
+
+第34大章 Transformers
 * [README](28-Transformers/README.md)
 * [_sidebar](28-Transformers/_sidebar.md)
 
@@ -339,7 +342,7 @@ transformers
 * [4.7-生成任务-摘要生成](28-Transformers/篇章4-使用Transformers解决NLP任务/4.7-生成任务-摘要生成.md)
 * [4.8-篇章小测](28-Transformers/篇章4-使用Transformers解决NLP任务/4.8-篇章小测.md)
 
-第34大章 大模型
+第35大章 大模型
 * [AdamW](29-大模型/AdamW.md)
 * [Infini-attention](29-大模型/Infini-attention.md)
 * [QLoRA](29-大模型/QLoRA.md)
