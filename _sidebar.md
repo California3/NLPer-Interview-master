@@ -341,7 +341,7 @@ transformers
 
 第34大章 大模型
 * [AdamW](29-大模型/AdamW.md)
-* [CRF](29-大模型/CRF.md)
+* [Infini-attention](29-大模型/Infini-attention.md)
 * [QLoRA](29-大模型/QLoRA.md)
 * [RoPE](29-大模型/RoPE.md)
 * [扩充更多词表](29-大模型/扩充更多词表.md)
