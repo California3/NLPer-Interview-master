@@ -1,5 +1,5 @@
 
-第1大章 写在前面
+**第1大章 写在前面**
 * [AI换脸](00-写在前面/AI换脸.md)
 * [NLP and 机器学习面经，回馈牛客](00-写在前面/NLP%20and%20机器学习面经，回馈牛客.md)
 * [NLP 大纲](00-写在前面/NLP%20大纲.md)
@@ -9,7 +9,7 @@
 * [深度合成技术](00-写在前面/深度合成技术.md)
 * [算法工程师修炼之道](00-写在前面/算法工程师修炼之道.md)
 
-第2大章 基础数学知识
+**第2大章 基础数学知识**
 * [信息论](01-基础数学知识/信息论.md)
 * [大数据问题](01-基础数学知识/大数据问题.md)
 * [抽样方法](01-基础数学知识/抽样方法.md)
@@ -19,17 +19,17 @@
 * [高斯分布](01-基础数学知识/高斯分布.md)
 * [高等数学](01-基础数学知识/高等数学.md)
 
-第3大章 编程语言基础
+**第3大章 编程语言基础**
 * [C++ 面试题](02-编程语言基础/C++%20面试题.md)
 * [Python 面试题](02-编程语言基础/Python%20面试题.md)
 * [Python多线程](02-编程语言基础/Python多线程.md)
 * [python导入](02-编程语言基础/python导入.md)
 
-第4大章 计算机基础理论知识
+**第4大章 计算机基础理论知识**
 * [操作系统](03-计算机基础理论知识/操作系统.md)
 * [计算机网络](03-计算机基础理论知识/计算机网络.md)
 
-第5大章 机器学习基础
+**第5大章 机器学习基础**
 * [分类模型1 - 逻辑回归](04-机器学习基础/分类模型1%20-%20逻辑回归.md)
 * [分类模型2 - 决策树](04-机器学习基础/分类模型2%20-%20决策树.md)
 * [分类模型3 - 感知机](04-机器学习基础/分类模型3%20-%20感知机.md)
@@ -58,7 +58,7 @@
 * [预处理 - 数据预处理](04-机器学习基础/预处理%20-%20数据预处理.md)
 * [预处理 - 特征工程](04-机器学习基础/预处理%20-%20特征工程.md)
 
-第6大章 深度学习基础
+**第6大章 深度学习基础**
 * [Trick - Dropout](05-深度学习基础/Trick%20-%20Dropout.md)
 * [Trick - Normalization](05-深度学习基础/Trick%20-%20Normalization.md)
 * [Trick - 学习率衰减](05-深度学习基础/Trick%20-%20学习率衰减.md)
@@ -93,7 +93,7 @@
 * [调参 - 超参数调优](05-深度学习基础/调参%20-%20超参数调优.md)
 * [迁移学习](05-深度学习基础/迁移学习.md)
 
-第7大章 统计自然语言处理
+**第7大章 统计自然语言处理**
 * [CRF](06-统计自然语言处理/CRF.md)
 * [Jieba 分词](06-统计自然语言处理/Jieba%20分词.md)
 * [TF-IDF](06-统计自然语言处理/TF-IDF.md)
@@ -104,7 +104,7 @@
 * [自然语言处理综述](06-统计自然语言处理/自然语言处理综述.md)
 * [词袋模型](06-统计自然语言处理/词袋模型.md)
 
-第8大章 深度学习自然语言处理
+**第8大章 深度学习自然语言处理**
 * [NLP 中的迁移学习](07-深度学习自然语言处理/NLP%20中的迁移学习.md)
 * [Prompt](07-深度学习自然语言处理/Prompt.md)
 * [一文滤清对比学习](07-深度学习自然语言处理/一文滤清对比学习.md)
@@ -113,71 +113,35 @@
 * [模型可视化](07-深度学习自然语言处理/模型可视化.md)
 * [那些年我看过的综述文章](07-深度学习自然语言处理/那些年我看过的综述文章.md)
 
-0-数据预处理
+  0-数据预处理
 * [NLP 数据增强方法](07-深度学习自然语言处理/0-数据预处理/NLP%20数据增强方法.md)
 * [文本数据预处理](07-深度学习自然语言处理/0-数据预处理/文本数据预处理.md)
 
-1-词向量
+  1-词向量
 * [词向量](07-深度学习自然语言处理/1-词向量/词向量.md)
 * [词向量与语言模型](07-深度学习自然语言处理/1-词向量/词向量与语言模型.md)
 * [语言模型与词向量基础](07-深度学习自然语言处理/1-词向量/语言模型与词向量基础.md)
 
-第9大章 实体链接
-* [实体链接](07-深度学习自然语言处理/10-实体链接/实体链接.md)
-
-第10大章 文本摘要
-* [抽取式摘要](07-深度学习自然语言处理/11-文本摘要/抽取式摘要.md)
-
-第11大章 文本生成
-* [文本生成的最新进展](07-深度学习自然语言处理/12-文本生成/文本生成的最新进展.md)
-
-第12大章 关键词抽取
-* [BERT-KPE  Joint Keyphrase Chunking and Salience Ranking with BERT](07-深度学习自然语言处理/13-关键词抽取/BERT-KPE%20%20Joint%20Keyphrase%20Chunking%20and%20Salience%20Ranking%20with%20BERT.md)
-* [KPE](07-深度学习自然语言处理/13-关键词抽取/KPE.md)
-* [KeyPhrase Extraction](07-深度学习自然语言处理/13-关键词抽取/KeyPhrase%20Extraction.md)
-* [NP chunking](07-深度学习自然语言处理/13-关键词抽取/NP%20chunking.md)
-* [SIFRank - A New Baseline for Unsupervised Keyphrase Extraction Based on Pre-trained Language Model](07-深度学习自然语言处理/13-关键词抽取/SIFRank%20-%20A%20New%20Baseline%20for%20Unsupervised%20Keyphrase%20Extraction%20Based%20on%20Pre-trained%20Language%20Model.md)
-* [SIF：a simple but tough to beat baseline for sentence embeddings](07-深度学习自然语言处理/13-关键词抽取/SIF：a%20simple%20but%20tough%20to%20beat%20baseline%20for%20sentence%20embeddings.md)
-
-第13大章 开放域对话
-* [上游任务 - 开放域对话](07-深度学习自然语言处理/14-开放域对话/上游任务%20-%20开放域对话.md)
-
-第14大章 多模态命名实体识别
-* [多模态命名实体识别](07-深度学习自然语言处理/15-多模态命名实体识别/多模态命名实体识别.md)
-
-第15大章 模型压缩
-* [模型压缩 - 知识蒸馏](07-深度学习自然语言处理/16-模型压缩/模型压缩%20-%20知识蒸馏.md)
-* [模型压缩 - 综述](07-深度学习自然语言处理/16-模型压缩/模型压缩%20-%20综述.md)
-
-第16大章 中英文分词
-* [文本预处理 - Subword 分词方法](07-深度学习自然语言处理/17-中英文分词/文本预处理%20-%20Subword%20分词方法.md)
-* [文本预处理 - 中英文分词](07-深度学习自然语言处理/17-中英文分词/文本预处理%20-%20中英文分词.md)
-
-第17大章 任务型对话
-* [分类与序列标注的联合学习](07-深度学习自然语言处理/18-任务型对话/分类与序列标注的联合学习.md)
-* [对话管理](07-深度学习自然语言处理/18-任务型对话/对话管理.md)
-* [综述](07-深度学习自然语言处理/18-任务型对话/综述.md)
-
-2-Attention机制
+  2-Attention机制
 * [Attention 机制 - 解释性](07-深度学习自然语言处理/2-Attention机制/Attention%20机制%20-%20解释性.md)
 * [Attention 机制 -- Transformer](07-深度学习自然语言处理/2-Attention机制/Attention%20机制%20--%20Transformer.md)
 * [Attention 机制 -- 基础篇](07-深度学习自然语言处理/2-Attention机制/Attention%20机制%20--%20基础篇.md)
 * [Transformer 的位置编码](07-深度学习自然语言处理/2-Attention机制/Transformer%20的位置编码.md)
 
-3-文本分类
+  3-文本分类
 * [Tricks - 文本分类](07-深度学习自然语言处理/3-文本分类/Tricks%20-%20文本分类.md)
 * [上游任务 - 文本分类](07-深度学习自然语言处理/3-文本分类/上游任务%20-%20文本分类.md)
 
-4-命名实体识别
+  4-命名实体识别
 * [上游任务 - 命名实体识别](07-深度学习自然语言处理/4-命名实体识别/上游任务%20-%20命名实体识别.md)
 * [命名实体识别的经验](07-深度学习自然语言处理/4-命名实体识别/命名实体识别的经验.md)
 
-5-文本匹配
+  5-文本匹配
 * [上游任务 - 文本相似度](07-深度学习自然语言处理/5-文本匹配/上游任务%20-%20文本相似度.md)
 * [上游任务 - 语义匹配](07-深度学习自然语言处理/5-文本匹配/上游任务%20-%20语义匹配.md)
 * [无监督文本匹配](07-深度学习自然语言处理/5-文本匹配/无监督文本匹配.md)
 
-6-预训练语言模型
+  6-预训练语言模型
 * [BERT 可解释性](07-深度学习自然语言处理/6-预训练语言模型/BERT%20可解释性.md)
 * [Recent Advances in Language Model Fine-tuning](07-深度学习自然语言处理/6-预训练语言模型/Recent%20Advances%20in%20Language%20Model%20Fine-tuning.md)
 * [一文滤清预训练语言模型发展脉络](07-深度学习自然语言处理/6-预训练语言模型/一文滤清预训练语言模型发展脉络.md)
@@ -198,44 +162,80 @@
 * [预训练语言模型 - 自然语言生成](07-深度学习自然语言处理/6-预训练语言模型/预训练语言模型%20-%20自然语言生成.md)
 * [预训练语言模型 - 融入知识图谱](07-深度学习自然语言处理/6-预训练语言模型/预训练语言模型%20-%20融入知识图谱.md)
 
-7-阅读理解
+  7-阅读理解
 * [上游任务 - 信息检索](07-深度学习自然语言处理/7-阅读理解/上游任务%20-%20信息检索.md)
 * [上游任务 - 阅读理解](07-深度学习自然语言处理/7-阅读理解/上游任务%20-%20阅读理解.md)
 * [阅读理解数据集综述](07-深度学习自然语言处理/7-阅读理解/阅读理解数据集综述.md)
 
-8-自然语言推理
+  8-自然语言推理
 * [上游任务 - 自然语言推理](07-深度学习自然语言处理/8-自然语言推理/上游任务%20-%20自然语言推理.md)
 
-9-关系抽取
+  9-关系抽取
 * [关系抽取](07-深度学习自然语言处理/9-关系抽取/关系抽取.md)
 
-其他基础
+  10-实体链接
+* [实体链接](07-深度学习自然语言处理/10-实体链接/实体链接.md)
+
+  11-文本摘要
+* [抽取式摘要](07-深度学习自然语言处理/11-文本摘要/抽取式摘要.md)
+
+  12-文本生成
+* [文本生成的最新进展](07-深度学习自然语言处理/12-文本生成/文本生成的最新进展.md)
+
+  13-关键词抽取
+* [BERT-KPE  Joint Keyphrase Chunking and Salience Ranking with BERT](07-深度学习自然语言处理/13-关键词抽取/BERT-KPE%20%20Joint%20Keyphrase%20Chunking%20and%20Salience%20Ranking%20with%20BERT.md)
+* [KeyPhrase Extraction](07-深度学习自然语言处理/13-关键词抽取/KeyPhrase%20Extraction.md)
+* [KPE](07-深度学习自然语言处理/13-关键词抽取/KPE.md)
+* [NP chunking](07-深度学习自然语言处理/13-关键词抽取/NP%20chunking.md)
+* [SIFRank - A New Baseline for Unsupervised Keyphrase Extraction Based on Pre-trained Language Model](07-深度学习自然语言处理/13-关键词抽取/SIFRank%20-%20A%20New%20Baseline%20for%20Unsupervised%20Keyphrase%20Extraction%20Based%20on%20Pre-trained%20Language%20Model.md)
+* [SIF：a simple but tough to beat baseline for sentence embeddings](07-深度学习自然语言处理/13-关键词抽取/SIF：a%20simple%20but%20tough%20to%20beat%20baseline%20for%20sentence%20embeddings.md)
+
+  14-开放域对话
+* [上游任务 - 开放域对话](07-深度学习自然语言处理/14-开放域对话/上游任务%20-%20开放域对话.md)
+
+  15-多模态命名实体识别
+* [多模态命名实体识别](07-深度学习自然语言处理/15-多模态命名实体识别/多模态命名实体识别.md)
+
+  16-模型压缩
+* [模型压缩 - 知识蒸馏](07-深度学习自然语言处理/16-模型压缩/模型压缩%20-%20知识蒸馏.md)
+* [模型压缩 - 综述](07-深度学习自然语言处理/16-模型压缩/模型压缩%20-%20综述.md)
+
+  17-中英文分词
+* [文本预处理 - Subword 分词方法](07-深度学习自然语言处理/17-中英文分词/文本预处理%20-%20Subword%20分词方法.md)
+* [文本预处理 - 中英文分词](07-深度学习自然语言处理/17-中英文分词/文本预处理%20-%20中英文分词.md)
+
+  18-任务型对话
+* [分类与序列标注的联合学习](07-深度学习自然语言处理/18-任务型对话/分类与序列标注的联合学习.md)
+* [对话管理](07-深度学习自然语言处理/18-任务型对话/对话管理.md)
+* [综述](07-深度学习自然语言处理/18-任务型对话/综述.md)
+
+  其他基础
 * [三大特征抽取器比较](07-深度学习自然语言处理/其他基础/三大特征抽取器比较.md)
 * [改进 NLP 模型的一些思路](07-深度学习自然语言处理/其他基础/改进%20NLP%20模型的一些思路.md)
 * [自然语言处理困难与现状](07-深度学习自然语言处理/其他基础/自然语言处理困难与现状.md)
 * [评估指标](07-深度学习自然语言处理/其他基础/评估指标.md)
 
-第18大章 推荐系统
+**第9大章 推荐系统**
 * [推荐类文章](08-推荐系统/推荐类文章.md)
 
-第19大章 老宋渣渣算法面经
+**第10大章 老宋渣渣算法面经**
 * [HR 问题](10-老宋渣渣算法面经/HR%20问题.md)
 * [一些优秀的博客](10-老宋渣渣算法面经/一些优秀的博客.md)
 * [提前批 NLP 凉经](10-老宋渣渣算法面经/提前批%20NLP%20凉经.md)
 * [整理一下简历中的点](10-老宋渣渣算法面经/整理一下简历中的点.md)
 * [面试套路](10-老宋渣渣算法面经/面试套路.md)
 
-第20大章 源码阅读
+**第11大章 源码阅读**
 * [Bert-pytorch](11-源码阅读/Bert-pytorch.md)
 * [Pytorch-Transformer](11-源码阅读/Pytorch-Transformer.md)
 
-tiny-dnn
+  tiny-dnn
 * [tiny-dnn 整体结构](11-源码阅读/tiny-dnn/tiny-dnn%20整体结构.md)
 
-transformers
+  transformers
 * [解读源码系列 - BERT 是如何分词的](11-源码阅读/transformers/解读源码系列%20-%20BERT%20是如何分词的.md)
 
-第21大章 知识图谱
+**第12大章 知识图谱**
 * [事件知识图谱](12-知识图谱/事件知识图谱.md)
 * [知识图谱 - 关系抽取](12-知识图谱/知识图谱%20-%20关系抽取.md)
 * [知识图谱 - 实体识别](12-知识图谱/知识图谱%20-%20实体识别.md)
@@ -249,13 +249,13 @@ transformers
 * [行业知识图谱](12-知识图谱/行业知识图谱.md)
 * [认知知识图谱](12-知识图谱/认知知识图谱.md)
 
-第22大章 迁移学习
+**第13大章 迁移学习**
 * [迁移学习基础](13-迁移学习/迁移学习基础.md)
 
-第23大章 认知神经科学
+**第14大章 认知神经科学**
 * [认知神经科学](14-认知神经科学/认知神经科学.md)
 
-第24大章 多模态
+**第15大章 多模态**
 * [clip - 比你想的要重要](15-多模态/clip%20-%20比你想的要重要.md)
 * [language + speech 预训练模型](15-多模态/language%20+%20speech%20预训练模型.md)
 * [language+vision 预训练模型](15-多模态/language+vision%20预训练模型.md)
@@ -265,30 +265,30 @@ transformers
 * [多模态融合](15-多模态/多模态融合.md)
 * [多模态预训练+对比学习](15-多模态/多模态预训练+对比学习.md)
 
-第25大章 博客文章
+**第16大章 博客文章**
 * [2021算法岗，灰飞烟灭？](16-博客文章/2021算法岗，灰飞烟灭？.md)
 * [关于付费咨询发现的很有意思的现象](16-博客文章/关于付费咨询发现的很有意思的现象.md)
 
-第26大章 go语言
+**第17大章 go语言**
 * [go 命令](17-go语言/go%20命令.md)
 * [go 语言基础](17-go语言/go%20语言基础.md)
 
-第27大章 图神经网络
+**第18大章 图神经网络**
 * [Graph embedding](18-图神经网络/Graph%20embedding.md)
 * [Transformer 与图神经网络](18-图神经网络/Transformer%20与图神经网络.md)
 * [图神经网络](18-图神经网络/图神经网络.md)
 
-第28大章 Pytorch
+**第19大章 Pytorch**
 * [Pytorch 内部机制](19-Pytorch/Pytorch%20内部机制.md)
 * [Pytorch 转 ONNX](19-Pytorch/Pytorch%20转%20ONNX.md)
 
-第29大章 图像处理
+**第20大章 图像处理**
 * [Transformer in CV](21-图像处理/Transformer%20in%20CV.md)
 
-第30大章 对比学习
+**第21大章 对比学习**
 * [对比学习](23-对比学习/对比学习.md)
 
-第31大章 数据挖掘
+**第22大章 数据挖掘**
 * [Bayes Classifiers](25-数据挖掘/Bayes%20Classifiers.md)
 * [Calculators](25-数据挖掘/Calculators.md)
 * [Cluster Analysis](25-数据挖掘/Cluster%20Analysis.md)
@@ -299,23 +299,21 @@ transformers
 * [SVM, Lazy Learners, & Variants](25-数据挖掘/SVM,%20Lazy%20Learners,%20&%20Variants.md)
 * [T-test Table](25-数据挖掘/T-test%20Table.md)
 
-第32大章 语音篇
+**第23大章 语音篇**
 * [nlp Voice](26-语音篇/nlp%20Voice.md)
 * [speechT5](26-语音篇/speechT5.md)
 * [voices](26-语音篇/voices.md)
 
-第33大章 LangChain for LLM 
-* [Langchain入门](27-LangChain%20for%20LLM%20/Langchain入门.md)
+**第24大章 LangChain for LLM **
+* [Langchain - 入门](27-LangChain%20for%20LLM%20/Langchain%20-%20入门.md)
 
-第34大章 Transformers
-* [README](28-Transformers/README.md)
-* [_sidebar](28-Transformers/_sidebar.md)
+**第25大章 Transformers**
 
-篇章1-前言
+  篇章1-前言
 * [1.0-本地阅读和代码运行环境配置](28-Transformers/篇章1-前言/1.0-本地阅读和代码运行环境配置.md)
 * [1.1-Transformers在NLP中的兴起](28-Transformers/篇章1-前言/1.1-Transformers在NLP中的兴起.md)
 
-篇章2-Transformer相关原理
+  篇章2-Transformer相关原理
 * [2.0-前言](28-Transformers/篇章2-Transformer相关原理/2.0-前言.md)
 * [2.1-图解attention](28-Transformers/篇章2-Transformer相关原理/2.1-图解attention.md)
 * [2.2-图解transformer](28-Transformers/篇章2-Transformer相关原理/2.2-图解transformer.md)
@@ -325,12 +323,12 @@ transformers
 * [2.4-图解GPT](28-Transformers/篇章2-Transformer相关原理/2.4-图解GPT.md)
 * [2.5-篇章小测](28-Transformers/篇章2-Transformer相关原理/2.5-篇章小测.md)
 
-篇章3-编写一个Transformer模型：BERT
+  篇章3-编写一个Transformer模型：BERT
 * [3.1-如何实现一个BERT](28-Transformers/篇章3-编写一个Transformer模型：BERT/3.1-如何实现一个BERT.md)
 * [3.2-如何应用一个BERT](28-Transformers/篇章3-编写一个Transformer模型：BERT/3.2-如何应用一个BERT.md)
 * [3.3-篇章小测](28-Transformers/篇章3-编写一个Transformer模型：BERT/3.3-篇章小测.md)
 
-篇章4-使用Transformers解决NLP任务
+  篇章4-使用Transformers解决NLP任务
 * [4.0 基于Hugging Face -Transformers的预训练模型微调](28-Transformers/篇章4-使用Transformers解决NLP任务/4.0%20基于Hugging%20Face%20-Transformers的预训练模型微调.md)
 * [4.0-前言](28-Transformers/篇章4-使用Transformers解决NLP任务/4.0-前言.md)
 * [4.1-文本分类](28-Transformers/篇章4-使用Transformers解决NLP任务/4.1-文本分类.md)
@@ -342,7 +340,7 @@ transformers
 * [4.7-生成任务-摘要生成](28-Transformers/篇章4-使用Transformers解决NLP任务/4.7-生成任务-摘要生成.md)
 * [4.8-篇章小测](28-Transformers/篇章4-使用Transformers解决NLP任务/4.8-篇章小测.md)
 
-第35大章 大模型
+**第26大章 大模型**
 * [AdamW](29-大模型/AdamW.md)
 * [Infini-attention](29-大模型/Infini-attention.md)
 * [QLoRA](29-大模型/QLoRA.md)
