@@ -20,6 +20,14 @@
     .markdown-section {
       padding-top: 10px;
     }
+    /* CSS 代码 */
+  .circle {
+    border-radius: 50%; /* 这会使元素的四角都是圆形的 */
+    width: 100px;      /* 设置图片的宽度 */
+    height: 100px;     /* 设置图片的高度 */
+    object-fit: cover; /* 确保图片内容适合框架，不被拉伸或压缩 */
+  }
+
   </style>
 </head>
 <body>
@@ -27,6 +35,7 @@
   <script>
     window.$docsify = {
       // themeColor: '#fc7e09',
+      coverpage: false,
       loadSidebar: true,
       subMaxLevel: 4,
       auto2top: true,
