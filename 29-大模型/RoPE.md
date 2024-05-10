@@ -1,6 +1,6 @@
 https://www.zhihu.com/tardis/zm/art/647109286?source_id=1003
 
-十分钟读懂旋转编码（RoPE）
+# 十分钟读懂旋转编码（RoPE）
 
 ![绝密伏击](./assets/v2-005eaa34a1a2f96d53f0ba4d27db3bbb_l-20240301015745147.jpg)
 
