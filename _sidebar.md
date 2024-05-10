@@ -305,8 +305,8 @@
 * [speechT5](26-语音篇/speechT5.md)
 * [voices](26-语音篇/voices.md)
 
-**第24大章 LangChain for LLM **
-* [Langchain - 入门](27-LangChain%20for%20LLM%20/Langchain%20-%20入门.md)
+**第24大章 LangChain**
+* [Langchain - 入门](27-LangChain/Langchain%20-%20入门.md)
 
 **第25大章 Transformers**
 
